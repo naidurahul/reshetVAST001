@@ -12,7 +12,7 @@
 				<Creative id="1234c">
 					<UniversalAdId idRegistry="Ad-ID" idValue="1234u">8465</UniversalAdId>
 					<Linear >
-						<Duration>00:00:30</Duration>
+						<Duration>00:00:10</Duration>
 						<TrackingEvents>
 							<Tracking event="start"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]></Tracking>
 							<Tracking event="firstQuartile"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=firstquartile&adId=1]]></Tracking>
@@ -47,4 +47,5 @@
 			</Creatives>
 		</InLine>
 	</Ad>
+
 </VAST>
