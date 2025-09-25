@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="3.0">
+    <Ad id="1">
+        <InLine>
+            <AdSystem><![CDATA[Campaign Manager]]></AdSystem>
+            <AdTitle><![CDATA[Ad #1]]></AdTitle>
+            <Impression><![CDATA[https://example.com/impression?id=1&cb={random}]]></Impression>
+            <Creatives>
+                <Creative id="creative_1">
+                    <Linear>
+                        <Duration>00:00:30.093</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start"><![CDATA[https://example.com/track?id=1&event=start]]></Tracking>
+                            <Tracking event="complete"><![CDATA[https://example.com/track?id=1&event=complete]]></Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough><![CDATA[https://ast.g-mana.online/bmedia-server/68492eced2e5981c6c6a43e4/creatives/441600f8-0945-4879-b8c9-961c11839585.mp4]]></ClickThrough>
+                        </VideoClicks>
+                        <AdParameters>
+                        <![CDATA[ adrulesversion=2.1,campaignid=40eb9650,fcapmode=campaign,repetitionpolicy=1,repeattime=0,fcapcount=100,fcapwindow=24,position=0,positionpriority=2,positionmode=preferred ]]>
+                        </AdParameters>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" scalable="true" maintainAspectRatio="true"><![CDATA[https://ast.g-mana.online/bmedia-server/68492eced2e5981c6c6a43e4/creatives/441600f8-0945-4879-b8c9-961c11839585.mp4]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="2">
+        <InLine>
+            <AdSystem><![CDATA[Campaign Manager]]></AdSystem>
+            <AdTitle><![CDATA[Ad #2]]></AdTitle>
+            <Impression><![CDATA[https://example.com/impression?id=2&cb={random}]]></Impression>
+            <Creatives>
+                <Creative id="creative_2">
+                    <Linear>
+                        <Duration>00:00:30.101</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start"><![CDATA[https://example.com/track?id=2&event=start]]></Tracking>
+                            <Tracking event="complete"><![CDATA[https://example.com/track?id=2&event=complete]]></Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough><![CDATA[https://ast.g-mana.online/bmedia-server/68492eced2e5981c6c6a43e4/creatives/f3ec4f8a-7999-46ec-8bfd-295456b4c1d7.mp4]]></ClickThrough>
+                        </VideoClicks>
+                        <AdParameters>
+                        <![CDATA[ adrulesversion=2.1,campaignid=40eb9650,fcapmode=campaign,repetitionpolicy=1,repeattime=0,fcapcount=100,fcapwindow=24,position=0,positionpriority=2,positionmode=preferred ]]>
+                        </AdParameters>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" scalable="true" maintainAspectRatio="true"><![CDATA[https://ast.g-mana.online/bmedia-server/68492eced2e5981c6c6a43e4/creatives/f3ec4f8a-7999-46ec-8bfd-295456b4c1d7.mp4]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="3">
+        <InLine>
+            <AdSystem><![CDATA[Campaign Manager]]></AdSystem>
+            <AdTitle><![CDATA[Ad #3]]></AdTitle>
+            <Impression><![CDATA[https://example.com/impression?id=3&cb={random}]]></Impression>
+            <Creatives>
+                <Creative id="creative_3">
+                    <Linear>
+                        <Duration>00:00:30.093</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start"><![CDATA[https://example.com/track?id=3&event=start]]></Tracking>
+                            <Tracking event="complete"><![CDATA[https://example.com/track?id=3&event=complete]]></Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough><![CDATA[https://ast.g-mana.online/bmedia-server/68492eced2e5981c6c6a43e4/creatives/20f682a3-780b-47eb-a137-56aa213fc6f5.mp4]]></ClickThrough>
+                        </VideoClicks>
+                        <AdParameters>
+                        <![CDATA[ adrulesversion=2.1,campaignid=40eb9650,fcapmode=campaign,repetitionpolicy=1,repeattime=0,fcapcount=100,fcapwindow=24,position=0,positionpriority=2,positionmode=preferred ]]>
+                        </AdParameters>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" scalable="true" maintainAspectRatio="true"><![CDATA[https://ast.g-mana.online/bmedia-server/68492eced2e5981c6c6a43e4/creatives/20f682a3-780b-47eb-a137-56aa213fc6f5.mp4]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="4">
+        <InLine>
+            <AdSystem><![CDATA[Campaign Manager]]></AdSystem>
+            <AdTitle><![CDATA[Ad #4]]></AdTitle>
+            <Impression><![CDATA[https://example.com/impression?id=4&cb={random}]]></Impression>
+            <Creatives>
+                <Creative id="creative_4">
+                    <Linear>
+                        <Duration>00:00:30.093</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start"><![CDATA[https://example.com/track?id=4&event=start]]></Tracking>
+                            <Tracking event="complete"><![CDATA[https://example.com/track?id=4&event=complete]]></Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough><![CDATA[https://ast.g-mana.online/bmedia-server/68492eced2e5981c6c6a43e4/creatives/44889e78-6534-47eb-9c58-16b9def60dda.mp4]]></ClickThrough>
+                        </VideoClicks>
+                        <AdParameters>
+                        <![CDATA[ adrulesversion=2.1,campaignid=40eb9650,fcapmode=campaign,repetitionpolicy=1,repeattime=0,fcapcount=100,fcapwindow=24,position=0,positionpriority=2,positionmode=preferred ]]>
+                        </AdParameters>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" scalable="true" maintainAspectRatio="true"><![CDATA[https://ast.g-mana.online/bmedia-server/68492eced2e5981c6c6a43e4/creatives/44889e78-6534-47eb-9c58-16b9def60dda.mp4]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="5">
+        <InLine>
+            <AdSystem><![CDATA[Campaign Manager]]></AdSystem>
+            <AdTitle><![CDATA[Ad #5]]></AdTitle>
+            <Impression><![CDATA[https://example.com/impression?id=5&cb={random}]]></Impression>
+            <Creatives>
+                <Creative id="creative_5">
+                    <Linear>
+                        <Duration>00:00:30.047</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start"><![CDATA[https://example.com/track?id=5&event=start]]></Tracking>
+                            <Tracking event="complete"><![CDATA[https://example.com/track?id=5&event=complete]]></Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough><![CDATA[https://ast.g-mana.online/bmedia-server/68492eced2e5981c6c6a43e4/creatives/036d4563-a9b9-407b-8e48-405a6656f28f.mp4]]></ClickThrough>
+                        </VideoClicks>
+                        <AdParameters>
+                        <![CDATA[ adrulesversion=2.1,campaignid=40eb9650,fcapmode=campaign,repetitionpolicy=1,repeattime=0,fcapcount=100,fcapwindow=24,position=0,positionpriority=2,positionmode=preferred ]]>
+                        </AdParameters>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" scalable="true" maintainAspectRatio="true"><![CDATA[https://ast.g-mana.online/bmedia-server/68492eced2e5981c6c6a43e4/creatives/036d4563-a9b9-407b-8e48-405a6656f28f.mp4]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="6">
+        <InLine>
+            <AdSystem><![CDATA[Campaign Manager]]></AdSystem>
+            <AdTitle><![CDATA[Ad #6]]></AdTitle>
+            <Impression><![CDATA[https://example.com/impression?id=6&cb={random}]]></Impression>
+            <Creatives>
+                <Creative id="creative_6">
+                    <Linear>
+                        <Duration>00:00:30.093</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start"><![CDATA[https://example.com/track?id=6&event=start]]></Tracking>
+                            <Tracking event="complete"><![CDATA[https://example.com/track?id=6&event=complete]]></Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough><![CDATA[https://ast.g-mana.online/bmedia-server/68492eced2e5981c6c6a43e4/creatives/38eecf28-444d-4666-a9a9-90f0962f7fd5.mp4]]></ClickThrough>
+                        </VideoClicks>
+                        <AdParameters>
+                        <![CDATA[ adrulesversion=2.1,campaignid=40eb9650,fcapmode=campaign,repetitionpolicy=1,repeattime=0,fcapcount=100,fcapwindow=24,position=0,positionpriority=2,positionmode=preferred ]]>
+                        </AdParameters>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" scalable="true" maintainAspectRatio="true"><![CDATA[https://ast.g-mana.online/bmedia-server/68492eced2e5981c6c6a43e4/creatives/38eecf28-444d-4666-a9a9-90f0962f7fd5.mp4]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="7">
+        <InLine>
+            <AdSystem><![CDATA[Campaign Manager]]></AdSystem>
+            <AdTitle><![CDATA[Ad #7]]></AdTitle>
+            <Impression><![CDATA[https://example.com/impression?id=7&cb={random}]]></Impression>
+            <Creatives>
+                <Creative id="creative_7">
+                    <Linear>
+                        <Duration>00:00:30.070</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start"><![CDATA[https://example.com/track?id=7&event=start]]></Tracking>
+                            <Tracking event="complete"><![CDATA[https://example.com/track?id=7&event=complete]]></Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough><![CDATA[https://ast.g-mana.online/bmedia-server/68492eced2e5981c6c6a43e4/creatives/cd772a13-df09-4d44-a07e-386d8a401c53.mp4]]></ClickThrough>
+                        </VideoClicks>
+                        <AdParameters>
+                        <![CDATA[ adrulesversion=2.1,campaignid=40eb9650,fcapmode=campaign,repetitionpolicy=1,repeattime=0,fcapcount=100,fcapwindow=24,position=0,positionpriority=2,positionmode=preferred ]]>
+                        </AdParameters>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" scalable="true" maintainAspectRatio="true"><![CDATA[https://ast.g-mana.online/bmedia-server/68492eced2e5981c6c6a43e4/creatives/cd772a13-df09-4d44-a07e-386d8a401c53.mp4]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="8">
+        <InLine>
+            <AdSystem><![CDATA[Campaign Manager]]></AdSystem>
+            <AdTitle><![CDATA[Ad #8]]></AdTitle>
+            <Impression><![CDATA[https://example.com/impression?id=8&cb={random}]]></Impression>
+            <Creatives>
+                <Creative id="creative_8">
+                    <Linear>
+                        <Duration>00:00:30.070</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start"><![CDATA[https://example.com/track?id=8&event=start]]></Tracking>
+                            <Tracking event="complete"><![CDATA[https://example.com/track?id=8&event=complete]]></Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough><![CDATA[https://ast.g-mana.online/bmedia-server/68492eced2e5981c6c6a43e4/creatives/7ad5cae7-6ad2-4036-a7c7-451bea13a8e6.mp4]]></ClickThrough>
+                        </VideoClicks>
+                        <AdParameters>
+                        <![CDATA[ adrulesversion=2.1,campaignid=40eb9650,fcapmode=campaign,repetitionpolicy=1,repeattime=0,fcapcount=100,fcapwindow=24,position=0,positionpriority=2,positionmode=preferred ]]>
+                        </AdParameters>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" scalable="true" maintainAspectRatio="true"><![CDATA[https://ast.g-mana.online/bmedia-server/68492eced2e5981c6c6a43e4/creatives/7ad5cae7-6ad2-4036-a7c7-451bea13a8e6.mp4]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="9">
+        <InLine>
+            <AdSystem><![CDATA[Campaign Manager]]></AdSystem>
+            <AdTitle><![CDATA[Ad #9]]></AdTitle>
+            <Impression><![CDATA[https://example.com/impression?id=9&cb={random}]]></Impression>
+            <Creatives>
+                <Creative id="creative_9">
+                    <Linear>
+                        <Duration>00:00:30.070</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start"><![CDATA[https://example.com/track?id=9&event=start]]></Tracking>
+                            <Tracking event="complete"><![CDATA[https://example.com/track?id=9&event=complete]]></Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough><![CDATA[https://ast.g-mana.online/bmedia-server/68492eced2e5981c6c6a43e4/creatives/4125f836-5106-4481-bb7a-b8eba3acb613.mp4]]></ClickThrough>
+                        </VideoClicks>
+                        <AdParameters>
+                        <![CDATA[ adrulesversion=2.1,campaignid=40eb9650,fcapmode=campaign,repetitionpolicy=1,repeattime=0,fcapcount=100,fcapwindow=24,position=0,positionpriority=2,positionmode=preferred ]]>
+                        </AdParameters>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" scalable="true" maintainAspectRatio="true"><![CDATA[https://ast.g-mana.online/bmedia-server/68492eced2e5981c6c6a43e4/creatives/4125f836-5106-4481-bb7a-b8eba3acb613.mp4]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+    <Ad id="10">
+        <InLine>
+            <AdSystem><![CDATA[Campaign Manager]]></AdSystem>
+            <AdTitle><![CDATA[Ad #10]]></AdTitle>
+            <Impression><![CDATA[https://example.com/impression?id=10&cb={random}]]></Impression>
+            <Creatives>
+                <Creative id="creative_10">
+                    <Linear>
+                        <Duration>00:00:21.269</Duration>
+                        <TrackingEvents>
+                            <Tracking event="start"><![CDATA[https://example.com/track?id=10&event=start]]></Tracking>
+                            <Tracking event="complete"><![CDATA[https://example.com/track?id=10&event=complete]]></Tracking>
+                        </TrackingEvents>
+                        <VideoClicks>
+                            <ClickThrough><![CDATA[https://ast.g-mana.online/bmedia-server/68492eced2e5981c6c6a43e4/creatives/47cdb1f9-4ada-4973-969e-176ec7829eda.mp4]]></ClickThrough>
+                        </VideoClicks>
+                        <AdParameters>
+                        <![CDATA[ adrulesversion=2.1,campaignid=40eb9650,fcapmode=campaign,repetitionpolicy=1,repeattime=0,fcapcount=100,fcapwindow=24,position=0,positionpriority=2,positionmode=preferred ]]>
+                        </AdParameters>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" type="video/mp4" scalable="true" maintainAspectRatio="true"><![CDATA[https://ast.g-mana.online/bmedia-server/68492eced2e5981c6c6a43e4/creatives/47cdb1f9-4ada-4973-969e-176ec7829eda.mp4]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>
