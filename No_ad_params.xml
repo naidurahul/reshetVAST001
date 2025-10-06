@@ -9,8 +9,7 @@
 				<![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]>
 			</Impression>
 			<Creatives>
-				<Creative id="1234c">
-					<UniversalAdId idRegistry="Ad-ID" idValue="1234u">8465</UniversalAdId>
+				<Creative>
 					<Linear >
 						<Duration>00:00:10</Duration>
 						<TrackingEvents>
@@ -49,4 +48,5 @@
 	</Ad>
 
 </VAST>
+
 
