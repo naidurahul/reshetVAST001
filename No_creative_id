@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <VAST version="3.0"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd">
-	<Ad id="1255a" sequence="1">
+	<Ad sequence="1">
 		<InLine>
 			<AdSystem><![CDATA[Reviveadservermod.com]]></AdSystem>
 			<AdTitle><![CDATA[ad 1]]></AdTitle>
