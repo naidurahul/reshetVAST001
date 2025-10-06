@@ -10,7 +10,6 @@
 			</Impression>
 			<Creatives>
 				<Creative id="1234c">
-					<UniversalAdId idRegistry="Ad-ID" idValue="1234u">8465</UniversalAdId>
 					<Linear >
 						<Duration>00:00:30</Duration>
 						<TrackingEvents>
@@ -46,6 +45,11 @@
 					</Linear>
 				</Creative>
 			</Creatives>
+			<Extensions>
+                <Extension type="springserve">
+                    <SpringServeCreativeId>-750207998</SpringServeCreativeId>
+                </Extension>
+            </Extensions>
 		</InLine>
 	</Ad>
 </VAST>
