@@ -1,0 +1,36 @@
+<vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
+  <vmap:AdBreak timeOffset="00:00:30.000" breakType="linear" breakId="sbs-1">
+    <vmap:AdSource id="sbs-1-ads" allowMultipleAds="true" followRedirects="true">
+      <vmap:AdTagURI templateType="vast3">
+        <![CDATA[ https://podfusion.g-mana.live/media-server/place/1c158e88-8ea1-4587-9afe-fe26e53204de/vast.xml?n=1 ]]>
+      </vmap:AdTagURI>
+    </vmap:AdSource>
+  </vmap:AdBreak>
+
+  <vmap:AdBreak timeOffset="00:00:60.000" breakType="linear" breakId="underlay-1">
+    <vmap:AdSource id="underlay-1-ads" allowMultipleAds="true" followRedirects="true">
+      <vmap:AdTagURI templateType="vast3">
+        <![CDATA[ https://podfusion.g-mana.live/media-server/place/0470d73c-1a16-4ec1-a932-f32935ed6fd8/vast.xml?n=1 ]]>
+      </vmap:AdTagURI>
+    </vmap:AdSource>
+  </vmap:AdBreak>
+
+  <vmap:AdBreak timeOffset="00:01:30.000" breakType="linear" breakId="sbs-1">
+    <vmap:AdSource id="sbs-2-ads" allowMultipleAds="true" followRedirects="true">
+      <vmap:AdTagURI templateType="vast3">
+        <![CDATA[ https://podfusion.g-mana.live/media-server/place/1c158e88-8ea1-4587-9afe-fe26e53204de/vast.xml?n=1 ]]>
+      </vmap:AdTagURI>
+    </vmap:AdSource>
+  </vmap:AdBreak>
+  
+<vmap:AdBreak timeOffset="00:02:00.000" breakType="linear" breakId="underlay-2">
+    <vmap:AdSource id="underlay-2-ads" allowMultipleAds="true" followRedirects="true">
+      <vmap:AdTagURI templateType="vast3">
+        <![CDATA[ https://podfusion.g-mana.live/media-server/place/0470d73c-1a16-4ec1-a932-f32935ed6fd8/vast.xml?n=1 ]]>
+      </vmap:AdTagURI>
+    </vmap:AdSource>
+  </vmap:AdBreak>
+
+  
+ 
+</vmap:VMAP>
