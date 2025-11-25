@@ -18,7 +18,7 @@ https://test-streams.mux.dev/x36xhzz/url_0/url_467/193039199_mp4_h264_aac_hd_7.t
 https://test-streams.mux.dev/x36xhzz/url_0/url_468/193039199_mp4_h264_aac_hd_7.ts
 #EXTINF:9.950,
 https://test-streams.mux.dev/x36xhzz/url_0/url_469/193039199_mp4_h264_aac_hd_7.ts
-#EXT-X-ASSET:CONTENT_ID="001",CONTENT_FREQID="10",CONTENT_GENRE="Entertainment1",CONTENT_TITLE="My%20Show1",CONTENT_BRAND="CB1",CONTENT_RATING="TV1",CONTENT_LANGUAGE="en1",CONTENT_KEYWORDS="key1,word1",CONTENT_SEASON="season1",CONTENT_FORMAT="Show1"
+#EXT-X-ASSET:CONTENT_ID="001",CONTENT_FREQID="10",CONTENT_GENRE="Entertainment1",CONTENT_TITLE="My%20Show1"
 #EXT-X-CUE-OUT
 #EXTINF:10.050,
 https://test-streams.mux.dev/x36xhzz/url_0/url_470/193039199_mp4_h264_aac_hd_7.ts
@@ -47,7 +47,7 @@ https://test-streams.mux.dev/x36xhzz/url_0/url_480/193039199_mp4_h264_aac_hd_7.t
 https://test-streams.mux.dev/x36xhzz/url_0/url_481/193039199_mp4_h264_aac_hd_7.ts
 #EXTINF:10.000,
 https://test-streams.mux.dev/x36xhzz/url_0/url_482/193039199_mp4_h264_aac_hd_7.ts
-#EXT-X-ASSET:CONTENT_ID="002",CONTENT_FREQID="11",CONTENT_GENRE="Entertainment2",CONTENT_TITLE="My%20Show2",CONTENT_BRAND="CB2",CONTENT_RATING="TV2",CONTENT_LANGUAGE="en2",CONTENT_KEYWORDS="key2,word2",CONTENT_SEASON="season2",CONTENT_FORMAT="Show2"
+#EXT-X-ASSET:CONTENT_ID="002",CONTENT_FREQID="11",CONTENT_GENRE="Entertainment2",CONTENT_TITLE="My%20Show2"
 #EXT-X-CUE-OUT
 #EXTINF:10.000,
 https://test-streams.mux.dev/x36xhzz/url_0/url_483/193039199_mp4_h264_aac_hd_7.ts
@@ -76,7 +76,7 @@ https://test-streams.mux.dev/x36xhzz/url_0/url_493/193039199_mp4_h264_aac_hd_7.t
 https://test-streams.mux.dev/x36xhzz/url_0/url_494/193039199_mp4_h264_aac_hd_7.ts
 #EXTINF:10.000,
 https://test-streams.mux.dev/x36xhzz/url_0/url_495/193039199_mp4_h264_aac_hd_7.ts
-#EXT-X-ASSET:CONTENT_ID="003",CONTENT_FREQID="12",CONTENT_GENRE="Entertainment3",CONTENT_TITLE="My%20Show3",CONTENT_BRAND="CB3",CONTENT_RATING="TV3",CONTENT_LANGUAGE="en3",CONTENT_KEYWORDS="key3,word3",CONTENT_SEASON="season3",CONTENT_FORMAT="Show3"
+#EXT-X-ASSET:CONTENT_ID="003",CONTENT_FREQID="12",CONTENT_GENRE="Entertainment3",CONTENT_TITLE="My%20Show3"
 #EXT-X-CUE-OUT
 #EXTINF:10.000,
 https://test-streams.mux.dev/x36xhzz/url_0/url_496/193039199_mp4_h264_aac_hd_7.ts
@@ -140,3 +140,4 @@ https://test-streams.mux.dev/x36xhzz/url_0/url_524/193039199_mp4_h264_aac_hd_7.t
 #EXTINF:4.584,
 https://test-streams.mux.dev/x36xhzz/url_0/url_525/193039199_mp4_h264_aac_hd_7.ts
 #EXT-X-ENDLIST
+
