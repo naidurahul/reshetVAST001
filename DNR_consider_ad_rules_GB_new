@@ -68,7 +68,7 @@
 </Tracking>
 </TrackingEvents>
 <AdParameters>
-<![CDATA[ adrulesversion=2.1,campaignid=abc,fcapmode=campaign,repetitionpolicy=2,repeattime=120,fcapcount=100,fcapwindow=24,position=0,positionpriority=0,positionmode=preferred ]]>
+<![CDATA[ adrulesversion=2.1,campaignid=abc,fcapmode=campaign,repetitionpolicy=2,repeattime=120,fcapcount=100,fcapwindow=24,position=1,positionpriority=0,positionmode=preferred ]]>
 </AdParameters>
 <MediaFiles>
 <MediaFile delivery="progressive" width="1280" height="720" type="video/mp4" scalable="true" maintainAspectRatio="true">
@@ -157,7 +157,7 @@
 </ClickTracking>
 </VideoClicks>
 <AdParameters>
-<![CDATA[ adrulesversion=2.1,campaignid=abc,fcapmode=campaign,repetitionpolicy=2,repeattime=120,fcapcount=100,fcapwindow=24,position=1,positionpriority=0,positionmode=preferred ]]>
+<![CDATA[ adrulesversion=2.1,campaignid=abc,fcapmode=campaign,repetitionpolicy=2,repeattime=120,fcapcount=100,fcapwindow=24,position=2,positionpriority=0,positionmode=preferred ]]>
 </AdParameters>
 <MediaFiles>
 <MediaFile delivery="progressive" width="1280" height="540" type="video/mp4" scalable="true" maintainAspectRatio="true">
@@ -246,7 +246,7 @@
 </ClickTracking>
 </VideoClicks>
 <AdParameters>
-<![CDATA[ adrulesversion=2.1,campaignid=abc,fcapmode=campaign,repetitionpolicy=2,repeattime=120,fcapcount=100,fcapwindow=24,position=2,positionpriority=0,positionmode=preferred ]]>
+<![CDATA[ adrulesversion=2.1,campaignid=abc,fcapmode=campaign,repetitionpolicy=2,repeattime=120,fcapcount=100,fcapwindow=24,position=3,positionpriority=0,positionmode=preferred ]]>
 </AdParameters>
 <MediaFiles>
 <MediaFile delivery="progressive" width="1280" height="540" type="video/mp4" scalable="true" maintainAspectRatio="true">
@@ -327,7 +327,7 @@
 </Tracking>
 </TrackingEvents>
 <AdParameters>
-<![CDATA[ adrulesversion=2.1,campaignid=abc2,fcapmode=campaign,repetitionpolicy=2,repeattime=120,fcapcount=100,fcapwindow=24,position=0,positionpriority=0,positionmode=preferred ]]>
+<![CDATA[ adrulesversion=2.1,campaignid=abc2,fcapmode=campaign,repetitionpolicy=2,repeattime=120,fcapcount=100,fcapwindow=24,position=1,positionpriority=0,positionmode=preferred ]]>
 </AdParameters>
 <MediaFiles>
 <MediaFile delivery="progressive" width="1280" height="720" type="video/mp4" scalable="true" maintainAspectRatio="true">
@@ -413,7 +413,7 @@
 </ClickTracking>
 </VideoClicks>
 <AdParameters>
-<![CDATA[ adrulesversion=2.1,campaignid=abc2,fcapmode=campaign,repetitionpolicy=2,repeattime=120,fcapcount=100,fcapwindow=24,position=0,positionpriority=1,positionmode=preferred ]]>
+<![CDATA[ adrulesversion=2.1,campaignid=abc2,fcapmode=campaign,repetitionpolicy=2,repeattime=120,fcapcount=100,fcapwindow=24,position=1,positionpriority=1,positionmode=preferred ]]>
 </AdParameters>
 <MediaFiles>
 <MediaFile delivery="progressive" width="1280" height="540" type="video/mp4" scalable="true" maintainAspectRatio="true">
@@ -499,7 +499,7 @@
 </ClickTracking>
 </VideoClicks>
 <AdParameters>
-<![CDATA[ adrulesversion=2.1,campaignid=abc2,fcapmode=campaign,repetitionpolicy=2,repeattime=120,fcapcount=100,fcapwindow=24,position=0,positionpriority=2,positionmode=preferred ]]>
+<![CDATA[ adrulesversion=2.1,campaignid=abc2,fcapmode=campaign,repetitionpolicy=2,repeattime=120,fcapcount=100,fcapwindow=24,position=1,positionpriority=3,positionmode=preferred ]]>
 </AdParameters>
 <MediaFiles>
 <MediaFile delivery="progressive" width="1280" height="540" type="video/mp4" scalable="true" maintainAspectRatio="true">
