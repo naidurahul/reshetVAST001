@@ -1,0 +1,514 @@
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="vast.xsd" version="3.0">
+<Ad id="f9ffac56-a144-4031-81e2-410f46fbac78">
+<InLine>
+<AdSystem>
+<![CDATA[ Campaign Manager ]]>
+</AdSystem>
+<AdTitle>
+<![CDATA[ KFC10 ]]>
+</AdTitle>
+<Impression>
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=impression ]]>
+</Impression>
+<Creatives>
+<Creative id="f9ffac56-a144-4031-81e2-410f46fbac78">
+<Linear>
+<Duration>00:00:10</Duration>
+<TrackingEvents>
+<Tracking event="creativeView">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=creativeView ]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=start ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=firstquartile ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=midpoint ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=thirdquartile ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=complete ]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=pause ]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=mute ]]>
+</Tracking>
+<Tracking event="fullscreen">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=fullscreen ]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=unmute ]]>
+</Tracking>
+<Tracking event="closeLinear">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=closeLinear ]]>
+</Tracking>
+<Tracking event="acceptInvitationLinear">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=acceptInvitationLinear ]]>
+</Tracking>
+<Tracking event="skip">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=skip ]]>
+</Tracking>
+<Tracking event="progress">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=progress ]]>
+</Tracking>
+<Tracking event="exitFullscreen">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=exitfullscreen ]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=rewind ]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=resume ]]>
+</Tracking>
+</TrackingEvents>
+<AdParameters>
+<![CDATA[ adrulesversion=2.1,campaignid=abc,fcapmode=creative,repetitionpolicy=2,repeattime=120,fcapcount=100,fcapwindow=24,position=2,positionpriority=0,positionmode=preferred ]]>
+</AdParameters>
+<MediaFiles>
+<MediaFile delivery="progressive" width="1280" height="720" type="video/mp4" scalable="true" maintainAspectRatio="true">
+<![CDATA[ https://ast.g-mana.online/bmedia-server/creatives/f9ffac56-a144-4031-81e2-410f46fbac78.mp4 ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+<Ad id="5ad4eef9-9644-45cc-828e-544a31dbb3bd">
+<InLine>
+<AdSystem>
+<![CDATA[ Campaign Manager ]]>
+</AdSystem>
+<AdTitle>
+<![CDATA[ Nike30 ]]>
+</AdTitle>
+<Impression>
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=impression ]]>
+</Impression>
+<Creatives>
+<Creative id="5ad4eef9-9644-45cc-828e-544a31dbb3bd">
+<Linear>
+<Duration>00:00:30</Duration>
+<TrackingEvents>
+<Tracking event="creativeView">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=creativeView ]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=start ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=firstquartile ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=midpoint ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=thirdquartile ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=complete ]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=pause ]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=mute ]]>
+</Tracking>
+<Tracking event="fullscreen">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=fullscreen ]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=unmute ]]>
+</Tracking>
+<Tracking event="closeLinear">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=closeLinear ]]>
+</Tracking>
+<Tracking event="acceptInvitationLinear">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=acceptInvitationLinear ]]>
+</Tracking>
+<Tracking event="skip">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=skip ]]>
+</Tracking>
+<Tracking event="progress">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=progress ]]>
+</Tracking>
+<Tracking event="exitFullscreen">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=exitfullscreen ]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=rewind ]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=resume ]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ https://www.nike.com/ ]]>
+</ClickThrough>
+<ClickTracking>
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&creative_name=Nike30&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&campaign_name=Nike30&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=click ]]>
+</ClickTracking>
+</VideoClicks>
+<AdParameters>
+<![CDATA[ adrulesversion=2.1,campaignid=abc,fcapmode=creative,repetitionpolicy=2,repeattime=120,fcapcount=100,fcapwindow=24,position=2,positionpriority=1,positionmode=preferred ]]>
+</AdParameters>
+<MediaFiles>
+<MediaFile delivery="progressive" width="1280" height="540" type="video/mp4" scalable="true" maintainAspectRatio="true">
+<![CDATA[ https://ast.g-mana.online/bmedia-server/creatives/5ad4eef9-9644-45cc-828e-544a31dbb3bd.mp4 ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+<Ad id="aea8c3d2-26ab-46bc-b9c8-b1622619c97a">
+<InLine>
+<AdSystem>
+<![CDATA[ Campaign Manager ]]>
+</AdSystem>
+<AdTitle>
+<![CDATA[ CocaCola20 ]]>
+</AdTitle>
+<Impression>
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=impression ]]>
+</Impression>
+<Creatives>
+<Creative id="aea8c3d2-26ab-46bc-b9c8-b1622619c97a">
+<Linear>
+<Duration>00:00:22</Duration>
+<TrackingEvents>
+<Tracking event="creativeView">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=creativeView ]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=start ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=firstquartile ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=midpoint ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=thirdquartile ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=complete ]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=pause ]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=mute ]]>
+</Tracking>
+<Tracking event="fullscreen">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=fullscreen ]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=unmute ]]>
+</Tracking>
+<Tracking event="closeLinear">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=closeLinear ]]>
+</Tracking>
+<Tracking event="acceptInvitationLinear">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=acceptInvitationLinear ]]>
+</Tracking>
+<Tracking event="skip">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=skip ]]>
+</Tracking>
+<Tracking event="progress">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=progress ]]>
+</Tracking>
+<Tracking event="exitFullscreen">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=exitfullscreen ]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=rewind ]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=resume ]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ https://www.coca-colacompany.com/ ]]>
+</ClickThrough>
+<ClickTracking>
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&creative_name=CocaCola20&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&campaign_name=CocaCola&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=click ]]>
+</ClickTracking>
+</VideoClicks>
+<AdParameters>
+<![CDATA[ adrulesversion=2.1,campaignid=abc,fcapmode=creative,repetitionpolicy=2,repeattime=120,fcapcount=100,fcapwindow=24,position=2,positionpriority=2,positionmode=preferred ]]>
+</AdParameters>
+<MediaFiles>
+<MediaFile delivery="progressive" width="1280" height="540" type="video/mp4" scalable="true" maintainAspectRatio="true">
+<![CDATA[ https://ast.g-mana.online/bmedia-server/creatives/aea8c3d2-26ab-46bc-b9c8-b1622619c97a.mp4 ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+<Ad id="000">
+<InLine>
+<AdSystem>
+<![CDATA[ Campaign Manager ]]>
+</AdSystem>
+<AdTitle>
+<![CDATA[ lensKart10 ]]>
+</AdTitle>
+<Impression>
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=impression ]]>
+</Impression>
+<Creatives>
+<Creative id="000">
+<Linear>
+<Duration>00:00:10</Duration>
+<TrackingEvents>
+<Tracking event="creativeView">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=creativeView ]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=start ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=firstquartile ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=midpoint ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=thirdquartile ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=complete ]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=pause ]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=mute ]]>
+</Tracking>
+<Tracking event="fullscreen">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=fullscreen ]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=unmute ]]>
+</Tracking>
+<Tracking event="closeLinear">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=closeLinear ]]>
+</Tracking>
+<Tracking event="acceptInvitationLinear">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=acceptInvitationLinear ]]>
+</Tracking>
+<Tracking event="skip">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=skip ]]>
+</Tracking>
+<Tracking event="progress">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=progress ]]>
+</Tracking>
+<Tracking event="exitFullscreen">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=exitfullscreen ]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=rewind ]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=f9ffac56-a144-4031-81e2-410f46fbac78&campaign_id=4299033e-8cc6-49e2-82c9-57ea68809939&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=resume ]]>
+</Tracking>
+</TrackingEvents>
+<AdParameters>
+<![CDATA[ adrulesversion=2.1,campaignid=abc2,fcapmode=creative,repetitionpolicy=2,repeattime=120,fcapcount=100,fcapwindow=24,position=1,positionpriority=0,positionmode=preferred ]]>
+</AdParameters>
+<MediaFiles>
+<MediaFile delivery="progressive" width="1280" height="720" type="video/mp4" scalable="true" maintainAspectRatio="true">
+<![CDATA[ https://ast.g-mana.online/bmedia-server/68174049b5cbc83ace6a8f93/creatives/f884aac9-97ae-4c03-a4af-b1a8eada76be.mp4 ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+<Ad id="001">
+<InLine>
+<AdSystem>
+<![CDATA[ Campaign Manager ]]>
+</AdSystem>
+<AdTitle>
+<![CDATA[ pringles30 ]]>
+</AdTitle>
+<Impression>
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=impression ]]>
+</Impression>
+<Creatives>
+<Creative id="001">
+<Linear>
+<Duration>00:00:30</Duration>
+<TrackingEvents>
+<Tracking event="creativeView">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=creativeView ]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=start ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=firstquartile ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=midpoint ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=thirdquartile ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=complete ]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=pause ]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=mute ]]>
+</Tracking>
+<Tracking event="fullscreen">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=fullscreen ]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=unmute ]]>
+</Tracking>
+<Tracking event="closeLinear">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=closeLinear ]]>
+</Tracking>
+<Tracking event="acceptInvitationLinear">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=acceptInvitationLinear ]]>
+</Tracking>
+<Tracking event="skip">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=skip ]]>
+</Tracking>
+<Tracking event="progress">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=progress ]]>
+</Tracking>
+<Tracking event="exitFullscreen">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=exitfullscreen ]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=rewind ]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=resume ]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickTracking>
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=5ad4eef9-9644-45cc-828e-544a31dbb3bd&creative_name=Nike30&campaign_id=9fb58241-16d0-46fc-9411-7412634733b7&campaign_name=Nike30&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=click ]]>
+</ClickTracking>
+</VideoClicks>
+<AdParameters>
+<![CDATA[ adrulesversion=2.1,campaignid=abc2,fcapmode=creative,repetitionpolicy=2,repeattime=120,fcapcount=100,fcapwindow=24,position=1,positionpriority=1,positionmode=preferred ]]>
+</AdParameters>
+<MediaFiles>
+<MediaFile delivery="progressive" width="1280" height="540" type="video/mp4" scalable="true" maintainAspectRatio="true">
+<![CDATA[ https://ast.g-mana.online/bmedia-server/68174049b5cbc83ace6a8f93/creatives/812b4cb3-d468-45bf-91c5-0c4b4a98edaa.mp4 ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+<Ad id="002">
+<InLine>
+<AdSystem>
+<![CDATA[ Campaign Manager ]]>
+</AdSystem>
+<AdTitle>
+<![CDATA[ Getting Started 15 secs ]]>
+</AdTitle>
+<Impression>
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=impression ]]>
+</Impression>
+<Creatives>
+<Creative id="002">
+<Linear>
+<Duration>00:00:15</Duration>
+<TrackingEvents>
+<Tracking event="creativeView">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=creativeView ]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=start ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=firstquartile ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=midpoint ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=thirdquartile ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=complete ]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=pause ]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=mute ]]>
+</Tracking>
+<Tracking event="fullscreen">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=fullscreen ]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=unmute ]]>
+</Tracking>
+<Tracking event="closeLinear">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=closeLinear ]]>
+</Tracking>
+<Tracking event="acceptInvitationLinear">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=acceptInvitationLinear ]]>
+</Tracking>
+<Tracking event="skip">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=skip ]]>
+</Tracking>
+<Tracking event="progress">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=progress ]]>
+</Tracking>
+<Tracking event="exitFullscreen">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=exitfullscreen ]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=rewind ]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=resume ]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickTracking>
+<![CDATA[ https://podfusion.g-mana.live/media-server/event?type=pod&creative_id=aea8c3d2-26ab-46bc-b9c8-b1622619c97a&creative_name=CocaCola20&campaign_id=0ac9dc3e-adc5-41c7-921c-c2a2350e1678&campaign_name=CocaCola&placement_id=cfd9e243-3cdd-4fe9-ac49-9b6c9c424c64&event=click ]]>
+</ClickTracking>
+</VideoClicks>
+<AdParameters>
+<![CDATA[ adrulesversion=2.1,campaignid=abc2,fcapmode=creative,repetitionpolicy=2,repeattime=120,fcapcount=100,fcapwindow=24,position=1,positionpriority=3,positionmode=preferred ]]>
+</AdParameters>
+<MediaFiles>
+<MediaFile delivery="progressive" width="1280" height="540" type="video/mp4" scalable="true" maintainAspectRatio="true">
+<![CDATA[ https://ast.g-mana.online/bmedia-server/68174049b5cbc83ace6a8f93/creatives/6409e38f-cc6d-4d71-8deb-45262b0386e5.mp4 ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
