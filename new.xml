@@ -4,14 +4,14 @@
 	<Ad id="015" sequence="1">
 		<InLine>
 			<AdSystem><![CDATA[Reviveadservermod.com]]></AdSystem>
-			<AdTitle><![CDATA[Jacket with no audio]]></AdTitle>
+			<AdTitle><![CDATA[GCDN]]></AdTitle>
 			<Impression>
 				<![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]>
 			</Impression>
 			<Creatives>
-				<Creative>
+				<Creative id="gcdn">
 					<Linear >
-						<Duration>00:00:10</Duration>
+						<Duration>00:01:00</Duration>
 						<TrackingEvents>
 							<Tracking event="start"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=start&adId=1]]></Tracking>
 							<Tracking event="firstQuartile"><![CDATA[https://jsonplaceholder.typicode.com/todos/1?event=firstquartile&adId=1]]></Tracking>
@@ -33,7 +33,7 @@
 
 						<MediaFiles>
 							<MediaFile delivery="progressive" bitrate="400" width='640' height='360' type="video/mp4" scalable="true" maintainAspectRatio="true">
-								<![CDATA[ https://static.criteo.net/design/dt/42206/5457362/6beda9633b51464b9009ca95b81171ce_criteo4.mp4 ]]>
+								<![CDATA[ https://gcdn.2mdn.net/videoplayback/id/2f166e296336e4b3/itag/22/source/web_video_ads/xpc/EgVovf3BOg%3D%3D/ctier/L/acao/yes/ip/0.0.0.0/ipbits/0/expire/3924425694/sparams/id,itag,source,xpc,ctier,acao,ip,ipbits,expire/signature/2F8E1779A6A0F9FFB3A46C13A253A6BAD6B31BE3.7204A53B85F0A0E96ED7AF9D9507301A296460A8/key/ck2/file/file.mp4 ]]>
 							</MediaFile>
 						</MediaFiles>
 					</Linear>
