@@ -11,7 +11,7 @@
   <vmap:AdBreak timeOffset="00:05:00.000" breakType="linear" breakId="sbs-1">
     <vmap:AdSource id="sbs-1" allowMultipleAds="true" followRedirects="true">
       <vmap:AdTagURI templateType="vast1">
-        <![CDATA[ https://podfusion.g-mana.live/media-server/place/b1c91f2c-f7a6-42dc-ba41-9a38553b2ebc/vast.xml?n=1 ]]>
+        <![CDATA[ https://raw.githubusercontent.com/bkas07/loadtest/refs/heads/main/singlead.xml ]]>
       </vmap:AdTagURI>
     </vmap:AdSource>
   </vmap:AdBreak>
@@ -19,7 +19,7 @@
   <vmap:AdBreak timeOffset="00:10:00.000" breakType="linear" breakId="overlay-1">
     <vmap:AdSource id="overlay-1" allowMultipleAds="true" followRedirects="true">
       <vmap:AdTagURI templateType="vast2">
-        <![CDATA[ https://podfusion.g-mana.live/media-server/place/6ccbae14-0ae3-4d87-8aae-91a99b4a5f0a/vast.xml ]]>
+        <![CDATA[ https://creative-p.undertone.com/demo/ctv/lexus2.xml ]]>
       </vmap:AdTagURI>
     </vmap:AdSource>
   </vmap:AdBreak>
