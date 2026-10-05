@@ -73,7 +73,7 @@
 </ClickTracking>
 </VideoClicks>
 <AdParameters>
-<![CDATA[ adrulesversion=2.1,campaignid=e86bd61a-5c9f-4255-b4e6-f467757f97ef,fcapmode=campaign,repetitionpolicy=2,repeattime=0,fcapcount=100,fcapwindow=24,position=6,positionpriority=0,positionmode=strict,brandid=105 ]]>
+<![CDATA[ adrulesversion=2.1,campaignid=e86bd61a-5c9f-4255-b4e6-f467757f97ef,fcapmode=campaign,repetitionpolicy=2,repeattime=0,fcapcount=100,fcapwindow=24,position=6,positionpriority=0,positionmode=preferred,brandid=105 ]]>
 </AdParameters>
 <MediaFiles>
 <MediaFile delivery="progressive" width="1280" height="720" type="video/mp4" scalable="true" maintainAspectRatio="true">
@@ -159,7 +159,7 @@
 </ClickTracking>
 </VideoClicks>
 <AdParameters>
-<![CDATA[ adrulesversion=2.1,campaignid=7e0b4abb-bcd5-44eb-8ccb-4771c6afa95c,fcapmode=campaign,repetitionpolicy=2,repeattime=0,fcapcount=100,fcapwindow=24,position=5,positionpriority=2,positionmode=strict,brandid=104 ]]>
+<![CDATA[ adrulesversion=2.1,campaignid=7e0b4abb-bcd5-44eb-8ccb-4771c6afa95c,fcapmode=campaign,repetitionpolicy=2,repeattime=0,fcapcount=100,fcapwindow=24,position=5,positionpriority=2,positionmode=preferred,brandid=104 ]]>
 </AdParameters>
 <MediaFiles>
 <MediaFile delivery="progressive" width="1280" height="720" type="video/mp4" scalable="true" maintainAspectRatio="true">
@@ -237,7 +237,7 @@
 </Tracking>
 </TrackingEvents>
 <AdParameters>
-<![CDATA[ adrulesversion=2.1,campaignid=912eba1c-d004-4349-9112-12bd4d8d56a3,fcapmode=campaign,repetitionpolicy=2,repeattime=0,fcapcount=100,fcapwindow=24,position=4,positionpriority=2,positionmode=strict,brandid=100 ]]>
+<![CDATA[ adrulesversion=2.1,campaignid=912eba1c-d004-4349-9112-12bd4d8d56a3,fcapmode=campaign,repetitionpolicy=2,repeattime=0,fcapcount=100,fcapwindow=24,position=4,positionpriority=2,positionmode=preferred,brandid=100 ]]>
 </AdParameters>
 <MediaFiles>
 <MediaFile delivery="progressive" width="1920" height="1080" type="video/mp4" scalable="true" maintainAspectRatio="true">
