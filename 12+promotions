@@ -1,0 +1,184 @@
+<VAST version="3.0">
+<Ad id="1b6c3b47-4362-4485-9b7c-bbf89a8ff784">
+<InLine>
+<AdSystem>SFPAdServer</AdSystem>
+<AdTitle>test sponss cpm</AdTitle>
+<Description>test sponss cpm</Description>
+<Impression>
+<![CDATA[ https://ads.kway.co.il/data/setcookie?userid=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Impression>
+<Impression>
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=2&tag_id=49640&cid=1b6c3b47-4362-4485-9b7c-bbf89a8ff784&appcid=4826&ass=1733a7a4-2014-444b-bc01-e5b4fca99d59&val=&order=2&cb=1793092299350&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Impression>
+<Creatives>
+<Creative id="1b6c3b47-4362-4485-9b7c-bbf89a8ff784" sequence="1">
+<Linear>
+<Duration>00:00:06.037</Duration>
+<TrackingEvents>
+<Tracking event="start">
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=19&tag_id=49640&cid=1b6c3b47-4362-4485-9b7c-bbf89a8ff784&appcid=4826&ass=1733a7a4-2014-444b-bc01-e5b4fca99d59&val=&order=19&cb=1793092299350&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=5&tag_id=49640&cid=1b6c3b47-4362-4485-9b7c-bbf89a8ff784&appcid=4826&ass=1733a7a4-2014-444b-bc01-e5b4fca99d59&val=&order=5&cb=1793092299350&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=6&tag_id=49640&cid=1b6c3b47-4362-4485-9b7c-bbf89a8ff784&appcid=4826&ass=1733a7a4-2014-444b-bc01-e5b4fca99d59&val=&order=6&cb=1793092299350&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=7&tag_id=49640&cid=1b6c3b47-4362-4485-9b7c-bbf89a8ff784&appcid=4826&ass=1733a7a4-2014-444b-bc01-e5b4fca99d59&val=&order=7&cb=1793092299350&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=8&tag_id=49640&cid=1b6c3b47-4362-4485-9b7c-bbf89a8ff784&appcid=4826&ass=1733a7a4-2014-444b-bc01-e5b4fca99d59&val=&order=8&cb=1793092299350&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://ads.kway.co.il/pixel/data/pixel.png?event=video_complete&data=%7B%22adid%22%3A%2249640%22%2C%20%22type%22%3A%22video_complete%22%2C%20%22timestamp%22%3A1793092299350%2C%22userId%22%3A%22cde4adb4-0dea-443a-824a-1a79926d7d8e%22%7D&timestamp=1793092299350&aduid=23384212343 ]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=126&tag_id=49640&cid=1b6c3b47-4362-4485-9b7c-bbf89a8ff784&appcid=4826&ass=1733a7a4-2014-444b-bc01-e5b4fca99d59&val=&order=126&cb=1793092299350&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=4&tag_id=49640&cid=1b6c3b47-4362-4485-9b7c-bbf89a8ff784&appcid=4826&ass=1733a7a4-2014-444b-bc01-e5b4fca99d59&val=&order=4&cb=1793092299350&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=125&tag_id=49640&cid=1b6c3b47-4362-4485-9b7c-bbf89a8ff784&appcid=4826&ass=1733a7a4-2014-444b-bc01-e5b4fca99d59&val=&order=125&cb=1793092299350&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=124&tag_id=49640&cid=1b6c3b47-4362-4485-9b7c-bbf89a8ff784&appcid=4826&ass=1733a7a4-2014-444b-bc01-e5b4fca99d59&val=&order=124&cb=1793092299350&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=123&tag_id=49640&cid=1b6c3b47-4362-4485-9b7c-bbf89a8ff784&appcid=4826&ass=1733a7a4-2014-444b-bc01-e5b4fca99d59&val=&order=123&cb=1793092299350&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Tracking>
+<Tracking event="fullscreen">
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=122&tag_id=49640&cid=1b6c3b47-4362-4485-9b7c-bbf89a8ff784&appcid=4826&ass=1733a7a4-2014-444b-bc01-e5b4fca99d59&val=&order=122&cb=1793092299350&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Tracking>
+<Tracking event="viewable_impression">
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=121&tag_id=49640&cid=1b6c3b47-4362-4485-9b7c-bbf89a8ff784&appcid=4826&ass=1733a7a4-2014-444b-bc01-e5b4fca99d59&val=&order=121&cb=1793092299350&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Tracking>
+<Tracking event="exitFullscreen">
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=120&tag_id=49640&cid=1b6c3b47-4362-4485-9b7c-bbf89a8ff784&appcid=4826&ass=1733a7a4-2014-444b-bc01-e5b4fca99d59&val=&order=120&cb=1793092299350&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Tracking>
+<Tracking event="skip">
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=119&tag_id=49640&cid=1b6c3b47-4362-4485-9b7c-bbf89a8ff784&appcid=4826&ass=1733a7a4-2014-444b-bc01-e5b4fca99d59&val=&order=119&cb=1793092299350&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Tracking>
+</TrackingEvents>
+<AdParameters>
+<![CDATA[ adrulesversion=2.1,fcapmode=campaign,campaignid=3867,brandid=376,repetitionpolicy=2,repeattime=120,fcapcount=0,fcapwindow=0,positionmode=preferred,position=0,expTime=1793224799000 ]]>
+</AdParameters>
+<MediaFiles>
+<MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080" bitrate="4510" scalable="true" maintainAspectRatio="true">
+<![CDATA[ https://ads.kway.co.il/cdn/output/2026/10/1792727344216_1792727343-d6e8587a-2307-4f19-8cef-dc4770ae16cb-mp4-1080p-25.mp4 ]]>
+</MediaFile>
+<MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080" bitrate="2886" scalable="true" maintainAspectRatio="true">
+<![CDATA[ https://ads.kway.co.il/cdn/output/2026/10/1792727344239_1792727343-d6e8587a-2307-4f19-8cef-dc4770ae16cb-mp4-1080p.mp4 ]]>
+</MediaFile>
+<MediaFile delivery="progressive" type="video/mp4" width="1280" height="720" bitrate="2466" scalable="true" maintainAspectRatio="true">
+<![CDATA[ https://ads.kway.co.il/cdn/output/2026/10/1792727344311_1792727343-d6e8587a-2307-4f19-8cef-dc4770ae16cb-mp4-720p-21.mp4 ]]>
+</MediaFile>
+<MediaFile delivery="progressive" type="video/mp4" width="1280" height="720" bitrate="1591" scalable="true" maintainAspectRatio="true">
+<![CDATA[ https://ads.kway.co.il/cdn/output/2026/10/1792727344381_1792727343-d6e8587a-2307-4f19-8cef-dc4770ae16cb-mp4-720p-25.mp4 ]]>
+</MediaFile>
+</MediaFiles>
+<Extensions>
+<Extension type="thumbnail">
+<Thumbnail>
+<![CDATA[ https://ads.kway.co.il/cdn/thumbnails/2026/10/1792727352239_1792727343-d6e8587a-2307-4f19-8cef-dc4770ae16cb-mp4-1080p-25-thumbnail.jpg ]]>
+</Thumbnail>
+</Extension>
+</Extensions>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+<Ad id="5f258d63-802d-4f37-acda-ad0a84e30458">
+<InLine>
+<AdSystem>SFPAdServer</AdSystem>
+<AdTitle>1792064578293_1792064577-e472674c-7e67-422a-a2c7-3b35b530cd1d-mp4-1080p-25</AdTitle>
+<Description>1792064578293_1792064577-e472674c-7e67-422a-a2c7-3b35b530cd1d-mp4-1080p-25</Description>
+<Impression>
+<![CDATA[ https://ads.kway.co.il/data/setcookie?userid=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Impression>
+<Impression>
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=2&tag_id=48538&cid=5f258d63-802d-4f37-acda-ad0a84e30458&appcid=4686&ass=57ddff55-a805-4003-867b-01a68fae2fb4&val=&order=2&cb=1793092527431&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Impression>
+<Creatives>
+<Creative id="5f258d63-802d-4f37-acda-ad0a84e30458" sequence="1">
+<Linear>
+<Duration>00:00:15.018</Duration>
+<TrackingEvents>
+<Tracking event="start">
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=19&tag_id=48538&cid=5f258d63-802d-4f37-acda-ad0a84e30458&appcid=4686&ass=57ddff55-a805-4003-867b-01a68fae2fb4&val=&order=19&cb=1793092527431&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=5&tag_id=48538&cid=5f258d63-802d-4f37-acda-ad0a84e30458&appcid=4686&ass=57ddff55-a805-4003-867b-01a68fae2fb4&val=&order=5&cb=1793092527431&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=6&tag_id=48538&cid=5f258d63-802d-4f37-acda-ad0a84e30458&appcid=4686&ass=57ddff55-a805-4003-867b-01a68fae2fb4&val=&order=6&cb=1793092527431&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=7&tag_id=48538&cid=5f258d63-802d-4f37-acda-ad0a84e30458&appcid=4686&ass=57ddff55-a805-4003-867b-01a68fae2fb4&val=&order=7&cb=1793092527431&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=8&tag_id=48538&cid=5f258d63-802d-4f37-acda-ad0a84e30458&appcid=4686&ass=57ddff55-a805-4003-867b-01a68fae2fb4&val=&order=8&cb=1793092527431&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://ads.kway.co.il/pixel/data/pixel.png?event=video_complete&data=%7B%22adid%22%3A%2248538%22%2C%20%22type%22%3A%22video_complete%22%2C%20%22timestamp%22%3A1793092527431%2C%22userId%22%3A%22cde4adb4-0dea-443a-824a-1a79926d7d8e%22%7D&timestamp=1793092527431&aduid=23384212343 ]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=126&tag_id=48538&cid=5f258d63-802d-4f37-acda-ad0a84e30458&appcid=4686&ass=57ddff55-a805-4003-867b-01a68fae2fb4&val=&order=126&cb=1793092527431&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=4&tag_id=48538&cid=5f258d63-802d-4f37-acda-ad0a84e30458&appcid=4686&ass=57ddff55-a805-4003-867b-01a68fae2fb4&val=&order=4&cb=1793092527431&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=125&tag_id=48538&cid=5f258d63-802d-4f37-acda-ad0a84e30458&appcid=4686&ass=57ddff55-a805-4003-867b-01a68fae2fb4&val=&order=125&cb=1793092527431&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=124&tag_id=48538&cid=5f258d63-802d-4f37-acda-ad0a84e30458&appcid=4686&ass=57ddff55-a805-4003-867b-01a68fae2fb4&val=&order=124&cb=1793092527431&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=123&tag_id=48538&cid=5f258d63-802d-4f37-acda-ad0a84e30458&appcid=4686&ass=57ddff55-a805-4003-867b-01a68fae2fb4&val=&order=123&cb=1793092527431&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Tracking>
+<Tracking event="fullscreen">
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=122&tag_id=48538&cid=5f258d63-802d-4f37-acda-ad0a84e30458&appcid=4686&ass=57ddff55-a805-4003-867b-01a68fae2fb4&val=&order=122&cb=1793092527431&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Tracking>
+<Tracking event="viewable_impression">
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=121&tag_id=48538&cid=5f258d63-802d-4f37-acda-ad0a84e30458&appcid=4686&ass=57ddff55-a805-4003-867b-01a68fae2fb4&val=&order=121&cb=1793092527431&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Tracking>
+<Tracking event="exitFullscreen">
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=120&tag_id=48538&cid=5f258d63-802d-4f37-acda-ad0a84e30458&appcid=4686&ass=57ddff55-a805-4003-867b-01a68fae2fb4&val=&order=120&cb=1793092527431&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Tracking>
+<Tracking event="skip">
+<![CDATA[ https://ads.kway.co.il/pixel/serve/pixel.png?e=119&tag_id=48538&cid=5f258d63-802d-4f37-acda-ad0a84e30458&appcid=4686&ass=57ddff55-a805-4003-867b-01a68fae2fb4&val=&order=119&cb=1793092527431&src=&smu=cde4adb4-0dea-443a-824a-1a79926d7d8e&aduid=23384212343 ]]>
+</Tracking>
+</TrackingEvents>
+<AdParameters>
+<![CDATA[ adrulesversion=2.1,fcapmode=campaign,campaignid=3867,brandid=376,repetitionpolicy=2,repeattime=120,fcapcount=0,fcapwindow=0,positionmode=strict,position=1,expTime=1793224799000 ]]>
+</AdParameters>
+<MediaFiles>
+<MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080" bitrate="4371" scalable="true" maintainAspectRatio="true">
+<![CDATA[ https://ads.kway.co.il/cdn/output/2026/10/1792498721684_1792498721-dbc8228b-63f7-4e75-820b-16ead4fecb61-mp4-1080p-25.mp4 ]]>
+</MediaFile>
+<MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080" bitrate="2891" scalable="true" maintainAspectRatio="true">
+<![CDATA[ https://ads.kway.co.il/cdn/output/2026/10/1792498721833_1792498721-dbc8228b-63f7-4e75-820b-16ead4fecb61-mp4-1080p.mp4 ]]>
+</MediaFile>
+<MediaFile delivery="progressive" type="video/mp4" width="1280" height="720" bitrate="2395" scalable="true" maintainAspectRatio="true">
+<![CDATA[ https://ads.kway.co.il/cdn/output/2026/10/1792498721786_1792498721-dbc8228b-63f7-4e75-820b-16ead4fecb61-mp4-720p-21.mp4 ]]>
+</MediaFile>
+<MediaFile delivery="progressive" type="video/mp4" width="1280" height="720" bitrate="1532" scalable="true" maintainAspectRatio="true">
+<![CDATA[ https://ads.kway.co.il/cdn/output/2026/10/1792498721921_1792498721-dbc8228b-63f7-4e75-820b-16ead4fecb61-mp4-720p-25.mp4 ]]>
+</MediaFile>
+</MediaFiles>
+<Extensions>
+<Extension type="thumbnail">
+<Thumbnail>
+<![CDATA[ https://ads.kway.co.il/cdn/thumbnails/2026/10/1792498734090_1792498721-dbc8228b-63f7-4e75-820b-16ead4fecb61-mp4-1080p-25-thumbnail.jpg ]]>
+</Thumbnail>
+</Extension>
+</Extensions>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
